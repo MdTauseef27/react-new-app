@@ -5,7 +5,9 @@ export const CardExample = () => {
   return (
     <div>
       <h1>hi this is for practice</h1>
-      <Button>Ok</Button>
+      <Button style={{ background: "red", border: "none", boxShadow: "none" }}>
+        Ok
+      </Button>
     </div>
   );
 };
