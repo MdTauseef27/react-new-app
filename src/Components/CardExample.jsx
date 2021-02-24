@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 export const CardExample = () => {
   return (
     <div>
-      <h1>hi this is for practice</h1>
+      <p>This Is For Redux Practice</p>
       <Button style={{ background: "red", border: "none", boxShadow: "none" }}>
         Ok
       </Button>
